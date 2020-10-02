@@ -1,4 +1,9 @@
 /* ### GLOBAL STYLES ### */
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300&display=swap" rel="stylesheet">
+body{
+  font-family: 'Noto Serif JP', serif;
+   
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', 'Open Sans Condensed',sans-serif;
